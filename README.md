@@ -1,5 +1,5 @@
 # Bryakin-A.-N._algorotmization
-https://docs.google.com/document/d/1wynZPeN-FZ2PeIayqiAPNBfX5Bc_LUW8zU3qh8hdUdE/edit?usp=drive_link
+https://drive.google.com/drive/folders/1ldPleRa8Fan084kSR3cgQeoq1ecIPOco?usp=drive_link
 _Бруклин_
 **Бруклин антана**
 ## matric
