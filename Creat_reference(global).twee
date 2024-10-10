@@ -1,0 +1,113 @@
+:: StoryTitle
+Creat_reference
+
+
+:: StoryData
+{
+  "ifid": "DB44FCF8-2BB6-4390-9E52-3E09DB271F96",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "client",
+  "tag-colors": {
+    "JS": "yellow",
+    "CSS": "blue",
+    "story": "purple"
+  },
+  "zoom": 0.6
+}
+
+
+:: Code [story] {"position":"1975,625","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Работа над кодом]]]
+<img src="https://i.postimg.cc/WzgZHTGZ/sidecode-img.png" width="300" height="350">
+<img src="https://i.postimg.cc/2SSYdVmB/screept.png" style="position: absolute; top: 50px; left: 310px;" width="600" height="350">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Я sidecode. Я писал код которы сможет вставлять вместо переменных данные из excel.]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Работа с word) ->Word]]
+[[--->(Заполнение Excel) ->Excel]]
+[[--->(Пролог) ->Знакомство с командой]]
+[[--->(Yougile) ->board]]]
+
+
+:: Excel [story] {"position":"1600,375","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Заполнение Excel файла]]]
+<img src="https://i.postimg.cc/XJDZHTSW/BotG-img.png" width="300" height="500">
+<img src="https://i.postimg.cc/Y952bk8B/Excel.png" style="position: absolute; top: 100px; left: 310px;" width="700" height="400">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Я BotG. Я заполнял excel фаил который создал для меня на своём гугл диске ToniStark. Сложность данной работы состоит в том чтобы собрать данные с каждого ведб не все могут собратся и сказать мне.]]]
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Работа с word) ->Word]]
+[[--->(Работа над кодом) ->Code]]
+[[--->(Пролог) ->Знакомство с командой]]
+[[--->(Yougile) ->board]]]
+
+
+:: Word [story] {"position":"1250,950","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Работа с word]]]
+<img src="https://i.postimg.cc/W3VSpqhz/Johnwick-img.png" width="300" height="500">
+<img src="https://i.postimg.cc/3wWKhWcH/Docx.png" style="position: absolute; top: 100px; left: 310px;" width="700" height="400">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Я Jonewick я заполнял шаблон. Мне лишь надо было взять переменые из excel и вставить в нужные строки.]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Заполнение Excel) ->Excel]]
+[[--->(Работа над кодом) ->Code]]
+[[--->(Пролог) ->Знакомство с командой]]
+[[--->(Yougile) ->board]]]
+
+
+
+:: board [story] {"position":"1975,975","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Работа с доской в yougile]]]
+<img src="https://i.postimg.cc/Nfvmr2tk/Toni-Stark-img.png" width="400" height="400">
+<img src="https://i.postimg.cc/W1HBM8XQ/yougile.png" style="position: absolute; top: 50px; left: 360px;" width="700" height="400">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Я ToniStark и я организовал нашу команду на создание данного проекта.]]]
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Работа с word) ->Word]]
+[[--->(Заполнение Excel) ->Excel]]
+[[--->(Работа над кодом) ->Code]]
+[[--->(Пролог) ->Знакомство с командой]]
+[[--->(Эпилог)->ending]]]
+
+
+:: client [story] {"position":"975,650","size":"100,100"}
+(text-style:"outline")[(text-colour:black)[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[Введение]]]
+<img src="https://mindskills.online/static/Educomp/images/teacher-3.png">
+(text-style:"outline")[(text-colour:black)[(b4r:"dashed","none")+(b4r-colour:black,white,black,black)[Данный проект был созданн по заданию преподователя]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Пролог) ->Знакомство с командой]]]
+
+
+:: ending [story] {"position":"1600,1150","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Эпилог]]]
+<img src="https://i.postimg.cc/SNm01jdy/dream-team.png" width="700" height="300">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Спасибо что уделили ваше дракоценное внимание]]]
+
+(text-colour:blue)[(b4r:"groove","none")+(b4r-colour:red,white)[Подержать проект можно с помощью денежного вознаграждения по карте:
+<img src="https://i.postimg.cc/wjhWmYn7/photo-2024-10-10-09-28-53.jpg" width="200" height="200">]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Работа с word) ->Word]]
+[[--->(Заполнение Excel) ->Excel]]
+[[--->(Работа над кодом) ->Code]]
+[[--->(Пролог) ->Знакомство с командой]]
+[[--->(Yougile) ->board]]]
+
+
+:: Знакомство с командой [story] {"position":"1275,625","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Пролог]]]
+<img src="https://i.postimg.cc/SNm01jdy/dream-team.png" width="700" height="300">
+
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Это мой овощной сквад все  слева на право:
+Главная шестерня в наше механизме Репко Максим он же sidecode,
+Обладатель черного пояса по черному юмору Беcпалов Андрей он же Johnwick,
+Главный работяга нашего колектива Егоров Михаил или BotG,
+И я очаравательный бабник сердцеед Брякин Антон или же ToniStark.]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Введение)->client]]
+[[--->(Работа с word) ->Word]]
+[[--->(Заполнение Excel) ->Excel]]
+[[--->(Работа над кодом) ->Code]]
+[[--->(Yougile) ->board]]]
+
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+  background-image:url("https://i.pinimg.com/originals/cb/66/7b/cb667b21c2f258bd4e35fed8d3997b38.png");
+ background-size:cover;
+}
