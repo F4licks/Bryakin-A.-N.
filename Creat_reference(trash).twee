@@ -1,0 +1,223 @@
+:: StoryTitle
+Creat_reference
+
+
+:: StoryData
+{
+  "ifid": "DB44FCF8-2BB6-4390-9E52-3E09DB271F96",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "types",
+  "tag-colors": {
+    "JS": "yellow",
+    "CSS": "blue",
+    "story": "purple",
+    "opros": "green"
+  },
+  "zoom": 0.6
+}
+
+
+:: ALTF4 [opros] {"position":"1950,1575","size":"100,100"}
+
+<script>
+window.close();
+</script>
+
+
+:: Code [story] {"position":"1975,625","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Работа над кодом]]]
+<img src="https://i.postimg.cc/WzgZHTGZ/sidecode-img.png" width="300" height="350">
+<img src="https://i.postimg.cc/j2tQY9Wz/screept-cut.png" id="Sidecode-img" style="position: absolute; top: 50px; left: 310px;" width="350" height="350">
+<script>
+document.getElementById("Sidecode-img").onclick = function() {
+    window.location.href = "https://colab.research.google.com/drive/1y29FL3W496te38n7eXAelMkrPZQsGYFB?usp=drive_link";
+};
+</script>
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Я SideCode, а также гений, миллиардер, плейбой, филантроп и мастер своего дела😎. С помощью Google Collab я написал основу нашей работы, которая безупречно работает. ToniStark помогал мне с тестированием программы, в результате чего проблем не случилось.]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Yougile) ->board]]
+----------------------------------
+[[--->(Работа с word) ->Word]]
+[[--->(Заполнение Excel) ->Excel]]
+[[--->(Пролог) ->Знакомство с командой]]
+]
+
+
+:: Excel [story] {"position":"1600,375","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Заполнение Excel файла]]]
+<img src="https://i.postimg.cc/XJDZHTSW/BotG-img.png" width="250" height="500">
+<img src="https://i.postimg.cc/9MrHt8XY/Excel-cut.png" id="BotG-img" style="position: absolute; top: 180px; left: 310px;" width="800" height="200">
+<script>
+document.getElementById("BotG-img").onclick = function() {
+    window.location.href = "https://docs.google.com/spreadsheets/d/122Z_V9cXTUYgL1RWMX5OkNjNKMJ3VDR8/edit?usp=drive_link&ouid=117123932329269582725&rtpof=true&sd=true";
+};
+</script>
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Я BotG😺. Моей задачей было заполнение Excel файла, в который я вставлял переменные и их значения. Последние я собирал с участников группы.Данный excel документ являлся своеобразной базой данных, к которому мог обращаться код SideCode. ]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Работа над кодом) ->Code]]
+-----------------------------------
+[[--->(Работа с word) ->Word]]
+[[--->(Пролог) ->Знакомство с командой]]
+[[--->(Yougile) ->board]]]
+
+
+:: Word [story] {"position":"1250,950","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Работа с word]]]
+<img src="https://i.postimg.cc/W3VSpqhz/Johnwick-img.png" width="300" height="500">
+<img src="https://i.postimg.cc/Px2pjpS8/Docx-cut.png" id="Jonewick-img" style="position: absolute; top: 60px; left: 310px;" width="500" height="450">
+<img src="https://sun9-12.userapi.com/s/v1/ig2/9f0poqG2i9ljorNOyuBxWuk7qofwdiCfm6OrT4BXc2VRyWme6INkcrSqblHYkpWvSw-Mh4ICMvj2W-_JdfEEwFpS.jpg?quality=95&as=32x23,48x34,72x51,108x76,160x113,240x169,360x254,480x339,540x381,640x452,720x508,992x700&from=bu&u=-76ZCGM6WvLqBvWfOdntKafkjFzdzaNHk0aFXv9fKOA&cs=992x700" id="toni-done-img" style="position: absolute; top: 60px; left: 830px;" width="300" height="200">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Я Jonewick👹. Я занимался шаблоном. А если быть точным, я вставлял переменные из excel файла BotG в нужное место своего документа в двойные фигурные скобки, чтобы потом код SideCode переписал оригинал документа так, как требует задача .(Гойда😎)]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Заполнение Excel) ->Excel]]
+---------------------------------------
+[[--->(Работа над кодом) ->Code]]
+[[--->(Пролог) ->Знакомство с командой]]
+[[--->(Yougile) ->board]]]
+<script>
+document.getElementById("toni-done-img").onclick = function() {
+    window.location.href = "https://docs.google.com/document/d/1-_7XtqMh9UmVRYPuBYuqbu3DKl5jitV5/edit?usp=drive_link&ouid=117123932329269582725&rtpof=true&sd=true";
+};
+</script>
+<script>
+document.getElementById("Jonewick-img").onclick = function() {
+    window.location.href = "https://docs.google.com/document/d/175gBLnlYta-f_oJes5fcoWv0iRLeBY7J/edit?usp=drive_link&ouid=117123932329269582725&rtpof=true&sd=true";
+};
+</script>
+
+
+:: board [story] {"position":"1975,975","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Работа с доской в yougile]]]
+<img src="https://i.postimg.cc/Nfvmr2tk/Toni-Stark-img.png" width="400" height="400">
+<img src="https://i.postimg.cc/ydXcjPfW/yougile-cut.png" id="ToniStark-img" style="position: absolute; top: 150px; left: 360px;" width="700" height="200">
+<script>
+document.getElementById("ToniStark-img").onclick = function() {
+    window.location.href = "https://ru.yougile.com/board/hk8bi19ywsxr";
+};
+</script>
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Я ToniStark и именно я организовал это сборище, чтоб мы стали командой. В основном я координировал их действия, помогал с непонятками в деле. Когда у меня было свободное время, я помогал другим группам своей поддержкой и мольбами🙏. Так же я занимался нашей командной доской на сайте YouGile]]]
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Заключение)->ending]]
+----------------------------------
+[[--->(Работа с word) ->Word]]
+[[--->(Заполнение Excel) ->Excel]]
+[[--->(Работа над кодом) ->Code]]
+[[--->(Пролог) ->Знакомство с командой]]]
+
+
+:: client [story] {"position":"1075,600","size":"100,100"}
+(text-style:"outline")[(text-colour:black)[(b4r:"none","none","none","double")+(b4r-colour:white,white,white,black)[Введение]]]
+
+<img src="https://avatars.mds.yandex.net/i?id=2f1c977bcca463f18acefcd5c8e9ee82187b777f74f1b6a3-5369934-images-thumbs&n=13">
+(text-style:"outline")[(text-colour:black)[(b4r:"dashed","none")+(b4r-colour:black,white,black,black)[Данный проект был созданн по заданию Администрации Люберецкого техникума. Он представляет из себя рабочий алгоритм, авоматизирующий заполнение "Карточки военкомата".]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Пролог) ->Знакомство с командой]]]
+
+
+:: comment [story] {"position":"900,950","size":"100,100"}
+<img src="https://sun9-30.userapi.com/s/v1/ig2/ZQP3gbc__q144LgC7tY_f75LIvC1hV4ctenI7MNt52CzK4e1Fw0pvCznf8-411Wqt_mgcHDCxFZ4HFgkxAWND19o.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&u=LAQMBjD20GnFwwsxurAdu2cRMkMdALOsfooXIggfYuo&cs=512x512" width="400" hieght="400">
+(text-style:"outline")[(text-colour:black)[(b4r:"dashed","none")+(b4r-colour:black,white,black,black)[Постите ничем помочь не могу]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(вернутся к выбору)->types]]]
+
+
+:: comments [opros] {"position":"1725,1625","size":"100,100"}
+(set:$comments to(prompt:"$fio какой коммент вы хотите оставить",""))
+<img src="https://sun9-1.userapi.com/s/v1/ig2/tawxE28CVR8ALUuxwsYy_HkzPbkc9_TxDzuVLI5BdTR8m7e9rBDfxNwTOBygxjax0IUQCgiVjf93tiAhZh4QgMK6.jpg?quality=95&as=32x44,48x65,72x98,108x147,160x218,240x327,360x490,376x512&from=bu&u=A02Zwp7YMNSdzuMrp7LbD1HLWdkcfKbig7M8M3lGzHM&cs=376x512">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Спасибо за ваш **ОЧЕНЬ ВАЖНЫЙ** коментарий]]]
+
+ (b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(СВАЛИТЬ😵)->ALTF4]]]
+
+
+:: ending [story] {"position":"1600,1150","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Эпилог]]]
+<img src="https://i.postimg.cc/SNm01jdy/dream-team.png" width="700" height="300">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Спасибо что уделили ваше дракоценное внимание]]]
+
+(text-colour:white)[(b4r:"groove","none")+(b4r-colour:red,white)[Подержать проект можно с помощью денежного вознаграждения по карте:
+<img src="https://i.postimg.cc/wjhWmYn7/photo-2024-10-10-09-28-53.jpg" width="200" height="200">]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Закрыть страницу😵)->ALTF4]]
+[[--->(опросник)->opros]]
+----------------------------------
+[[--->(Работа с word) ->Word]]
+[[--->(Заполнение Excel) ->Excel]]
+[[--->(Работа над кодом) ->Code]]
+[[--->(Пролог) ->Знакомство с командой]]
+[[--->(Yougile) ->board]]]
+
+
+
+:: no [opros] {"position":"1475,1450","size":"100,100"}
+<img src="https://sun9-11.userapi.com/s/v1/ig2/05ii1lGPRT-66XfQDB8aUtKvCg_0LAN8H90EWau1iPv6iAImyD12EdjSF0saW2oosBy2gN4E_9OwsMdEb9XJtVzB.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,736x736&from=bu&u=JS5brSiAXHT2vlWnybYbL51VWFJzrsux2cFt0WDtH5Q&cs=736x736"  width="536" hieght="536">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[а так😘 ?]]]
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Поставить хорошую оценку)->yes]]
+[[--->(всё говно, давай по новой)->noo]]]
+
+
+:: noo [opros] {"position":"1475,1625","size":"100,100"}
+<img src="https://sun9-73.userapi.com/s/v1/ig2/_LOSNNI3cm9Fn0rF6B7hLeHQBgr1oXviyOzAIGxKa5Q4Ioir7EU7sSoEmzTwBSjqYZBBL_EtkBIITU3d5RjGR8Of.jpg?quality=95&as=32x24,48x36,72x54,108x80,160x119,240x179,360x268,480x357,540x402,640x477,720x536,736x548&from=bu&u=PXwpFst8KsNOuQV83qjUcTvWfumwEccohgs63eUK2rI&cs=736x548" width="636" hieght="448">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[😖Ну пазялуйстаа😢]]]
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Ладна норм новелла)->yes]]]
+
+
+:: opros [opros] {"position":"1600,1300","size":"100,100"}
+<img src="https://psv4.userapi.com/s/v1/d/tFq7YXNBTJK3rC1vHCnhVvLw1U_4N-HtpCtJqoEglvPIWGO60112j2C9BOoLFSbKIy_QvauveC-FwKm4klejXquHFYCaIVVVlOQZwnthK3gnHQV-/incomprehension.png" width="540" hieght="540">
+(set:$fio to(prompt:"Как к вам обращатся",""))
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Мусье  $fio понравился ли вам наш труд😏?]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Да)->yes]]
+[[--->(нет)->no]]]
+
+
+:: reset [story] {"position":"925,725","size":"100,100"}
+<img src="https://avatars.mds.yandex.net/i?id=62c976ab23b52de700fb80dbc623d532b234872e-13017849-images-thumbs&n=13" width="440" hieght="440">
+(text-style:"outline")[(text-colour:black)[(b4r:"dashed","none")+(b4r-colour:black,white,black,black)[Вы точно уверены?]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(да)->comment]]
+[[--->(нет)->types]]]
+
+
+:: types [story] {"position":"700,650","size":"100,100"}
+<img src="https://sun9-79.userapi.com/impg/v2u_q0_odt9Eo1dOc1C9iVSesri6jiWOObwi0A/78Wn1eL8vq4.jpg?size=640x640&quality=95&sign=31d944712ffdbf897fae305eb38bc845&c_uniq_tag=h8c0CYKIJANerrOP7Auhgl7zCCaYfPMCE-wbJZxDPf4&type=album" width="440" hieght="440">
+(text-style:"outline")[(text-colour:black)[(b4r:"dashed","none")+(b4r-colour:black,white,black,black)[Как вы хотите делать Карточку Военкомата?]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Автоматизировать)->client]]
+[[--->(вручную)->reset]]]
+
+
+:: yes [opros] {"position":"1700,1450","size":"100,100"}
+<img src="https://sun9-67.userapi.com/s/v1/ig2/7iIzh69v3mrwUXHRcb3b4WHC6SEFenGuDGmJTlg4FOy9KY1PmAalWUepC_2GRNcnUtYNK5rplVHQh-5fP5tR1Wbl.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,300x300&from=bu&u=HiPLX55lFRKAUHg0wpge5Ia9QqA6AvvQkNAL3_9v05I&cs=300x300" width="450" hieght="450">
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Мы уважаем ваш **абсолютно независимый выбор**. Благодарим что оценили по достоинству. Пожалуйста забудьте оставить коммент🤗.]]]
+ (b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Оставить комент)->comments]]
+ [[--->(Закрыть страницу😵)->ALTF4]]]
+
+
+
+:: Знакомство с командой [story] {"position":"1275,625","size":"100,100"}
+(b4r:"none","none","none","ridge")+(b4r-colour:white,white,white,black)[(text-colour:white)[(text-style:"outline")[Пролог]]]
+<img src="https://i.postimg.cc/SNm01jdy/dream-team.png" width="700" id ="dream-team" height="300">
+<script>
+document.getElementById("dream-team").onclick = function() {
+    window.location.href = "https://drive.google.com/drive/folders/1rr2J3VfPWB3BIlthRRAavF5_T6nrhsPW?usp=drive_link";
+};
+</script>
+(b4r:"dashed","none")+(b4r-colour:black)[(text-colour:white)[(text-style:"outline")[Это мой овощной сквад все слева на право🖖:
+Главная шестерня в наше механизме Репко Максим он же sidecode✌,
+Обладатель черного пояса по черному юмору Беcпалов Андрей известен как Johnwick🕵,
+Главный работяга нашего колектива Егоров Михаил или BotG😐,
+И я очаравательный, неповторимый, просто няшка стесняшка😍 Брякин Антон like ToniStark.]]]
+
+(b4r:"groove","none")+(b4r-colour:navy,white)[[[--->(Работа с word) ->Word]]
+------------------------------------
+[[--->(Введение)->client]]
+[[--->(Заполнение Excel) ->Excel]]
+[[--->(Работа над кодом) ->Code]]
+[[--->(Yougile) ->board]]]
+
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+  background-image:url("https://i.postimg.cc/zfTHX6hC/Background-21.png");
+ background-size:cover;
+}
